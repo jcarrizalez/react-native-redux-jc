@@ -1,0 +1,26 @@
+{
+  "name": "react-native-redux-jc",
+  "version": "1.0.0",
+  "description": "redux personalizado y minificado",
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.11.0",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarrizalez/react-native-redux-jc.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "Juan Carrizalez",
+  "email": "sitgem@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcarrizalez/react-native-redux-jc/issues"
+  },
+  "homepage": "https://github.com/jcarrizalez/react-native-redux-jc#readme"
+}
